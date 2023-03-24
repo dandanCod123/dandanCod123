@@ -1,6 +1,6 @@
 ### Olá DanielCod 123 - Daniel Moura de Souza 👍👍✌✌
 
-- 🔭 Hoje estou trbalahndo com Back-End, mas voltado pra Java e Spring Boot..
+- 🔭 Hoje estou trbalahndo com Front-End -> FLutter e ReactJS e ReactTs
 - 🌱 Estou estudando Mecatrônica... 
 - 📫 How to reach me: danielmouradesousa5@gmail.com
 
